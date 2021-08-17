@@ -377,4 +377,4 @@ tmpfs            99M     0   99M   0% /run/user/1000
 
 ## Conclusion
 
-Here it was the project with complete utilization of the AWS CLI the management of different services.
+Here it is the project with complete utilization of the AWS CLI for the management of different AWS services.
