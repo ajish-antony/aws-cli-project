@@ -31,7 +31,7 @@ Here is the list of the main resources created via AWS-CLI
 - IAM user with programmatic Access
 - AWS Command Line Interface Installed on the system
 
-## Installation 
+## Steps For The Creation & Configuration
 Initially, the AWS CLI configuring with the available access key ID and AWS secret key
 
 ```sh
