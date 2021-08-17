@@ -136,7 +136,7 @@ Created a custom route table for the VPC.
 ```sh
 aws ec2 create-route-table --vpc-id vpc-0c059205f4d1da428
 ```
-output
+Output
 ```sh
 {
     "RouteTable": {
