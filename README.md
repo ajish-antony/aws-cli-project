@@ -57,7 +57,7 @@ Output
         "DhcpOptionsId": "dopt-eb844f80",
         "State": "pending",
         "VpcId": "vpc-0c059205f4d1da428",
-        "OwnerId": "925466079004",
+        "OwnerId": "925xxxxxxx04",
         "InstanceTenancy": "default",
         "Ipv6CidrBlockAssociationSet": [],
         "CidrBlockAssociationSet": [
@@ -103,7 +103,7 @@ Output
         "State": "available",
         "SubnetId": "subnet-0ea166295d2cc75c3",
         "VpcId": "vpc-0c059205f4d1da428",
-        "OwnerId": "925466079004",
+        "OwnerId": "925xxxxxxx04",
         "AssignIpv6AddressOnCreation": false,
         "Ipv6CidrBlockAssociationSet": [],
         "SubnetArn": "arn:aws:ec2:us-east-2:925466079004:subnet/subnet-0ea166295d2cc75c3"
@@ -122,7 +122,7 @@ Output
     "InternetGateway": {
         "Attachments": [],
         "InternetGatewayId": "igw-04524d266791ea43d",
-        "OwnerId": "925466079004",
+        "OwnerId": "925xxxxxxx04",
         "Tags": []
     }
 }
@@ -153,7 +153,7 @@ Output
         ],
         "Tags": [],
         "VpcId": "vpc-0c059205f4d1da428",
-        "OwnerId": "925466079004"
+        "OwnerId": "925xxxxxxx04"
     }
 }
 ```
@@ -203,7 +203,7 @@ Output
                 }
             ],
             "VpcId": "vpc-0c059205f4d1da428",
-            "OwnerId": "925466079004"
+            "OwnerId": "925xxxxxxx04"
         }
     ]
 }
